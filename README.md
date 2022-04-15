@@ -1,4 +1,3 @@
-# Financial_Planning.hw
 
 ## My work can be found by clicking here: [DAVIT_CUEDARI_Financial_Planner_HW](financial-planner.ipynb)
 
@@ -25,6 +24,7 @@ Here is a time line of my work:
 First I have to import libraries and dependencies, the ones that are new on this work are: *load_dotenv, alpaca_trade_api, json and MCSimulation*
 
 Using the url provided I am able to find the current price from the crypto market and by multiplying it by the amount I find the value of the crypto portfolio:
+
 ![current crypto wallet balance](MC_simulation_results/value_of_1.2BTC_5.3ETH.png)
 
 Next I have to create two other variables for the current amount of shares for Bonds and Stocks:
